@@ -3,6 +3,7 @@
 **Group Members:** Mezmure Dawit, Kiet Hyunh, Christopher Lee, Syed Ibad Rahman, Ayush Upadhyay, Kannan Venkateswaran
 
 **Iteration 1 Completion:** 12/05/2026 - Completed by Group
+
 **Iteration 2 Completion:** 05/08/2026 - Completed by Kannan Venkateswaran
 
 **Project Link:** https://github.com/KannanVenkateswaran/Medication-Adherence-System-Project
@@ -66,7 +67,7 @@ python medbase.py
 
 **Modular Architecture Scales Effort:** Breaking down the monolith into focused modules made the codebase easier to understand, test, and extend. Each module has a single responsibility, which makes both onboarding new developers and adding features straightforward.
 
-**Defensive Input Handling is Essential:** Robust parsing and graceful error handling significantly improve user experience. Rather than failing fast, the system validates input, normalizes formats, and logs warnings—preventing runtime crashes and providing clear feedback.
+**Defensive Input Handling is Essential:** Robust parsing and graceful error handling significantly improve user experience. Rather than failing fast, the system validates input, normalizes formats, and logs warnings, preventing runtime crashes and providing clear feedback.
 
 **Documentation Should Be Concurrent with Development:** Writing docstrings and comments during implementation ensures accuracy and reduces the effort needed for retrospective documentation. Clear inline comments make code self-documenting.
 
